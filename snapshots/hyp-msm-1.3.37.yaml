@@ -31,7 +31,7 @@ packages:
 - git: https://gitlab.com/davidsd/bootstrap-build.git
   commit: 8e61f7077d2c6bcfeb74611c1fdc718fbbeea41c
 - git: https://gitlab.com/matt2718/bootstrap-bounds.git
-  commit: b2b61a1f9c2bdfe7976cb7174ec52bbbca6dccc8
+  commit: 5d4c448b12501c93d08f1bb368e0370c24334e98
 - git: https://gitlab.com/davidsd/blocks-core.git
   commit: df05e960d33a88f234f7b4958a81343670f14fbc
 - git: https://gitlab.com/davidsd/scalar-blocks.git
